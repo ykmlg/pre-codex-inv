@@ -5,7 +5,7 @@ on:
 jobs:
   example_comment_pr:
     runs-on: ubuntu-latest
-    name: An example job to comment a PR
+    name: Pre invitation
     permissions:
       pull-requests: write
     steps:
