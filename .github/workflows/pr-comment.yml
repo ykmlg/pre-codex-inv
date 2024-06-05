@@ -4,7 +4,8 @@ jobs:
   example_comment_pr:
     runs-on: ubuntu-latest
     name: An example job to comment a PR
-    permissions: write-all
+    permissions:
+      pull-requests: write  # Ensure the token has write permissions for pull requests
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -15,3 +16,5 @@ jobs:
           message: |
             Hello! :wave:
             This is the password: IgN7lSkvxizlP2lU8r5uaTjRILCSnR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensure the token is referenced correctly
