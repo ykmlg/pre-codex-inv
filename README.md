@@ -5,8 +5,6 @@ Welcome to the Codex Connect Hacknet project! Follow these instructions to creat
 ## How to Contribute
 
 1. **Fork this Repository**
-
-   - Go to the GitHub repository at [https://github.com/codex-connect-hacknet/pre-codex-inv](https://github.com/codex-connect-hacknet/pre-codex-inv).
    - Click on the "Fork" button in the top-right corner of the page to create your own copy of the repository.
 
 2. **Clone the Forked Repository**
