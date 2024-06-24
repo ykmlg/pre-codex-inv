@@ -13,7 +13,6 @@ codex_03="takken"
 codex_04="userx"
 codex_05="usery"
 codex_06="Frante"
-echo $codex_02
-echo $codex_03
-echo $codex_04
-echo $codex_05
+
+
+
