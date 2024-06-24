@@ -12,7 +12,7 @@ codex_02="johnx"
 codex_03="takken"
 codex_04="userx"
 codex_05="usery"
-echo $codex_01
+codex_15="Frante"
 echo $codex_02
 echo $codex_03
 echo $codex_04
