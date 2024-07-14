@@ -14,7 +14,9 @@ codex_04="userx"
 codex_05="usery"
 codex_06="Frante"
 codex_07="cosmo"
-codex_08="Whisper-source"
+codex_08="PhantomBunny"
+codex_09="Whisper-source"
+
 echo $codex_01
 echo $codex_02
 echo $codex_03
@@ -22,5 +24,4 @@ echo $codex_04
 echo $codex_05
 echo $codex_07
 echo $codex_08
-
-
+echo $codex_09
