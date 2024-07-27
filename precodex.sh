@@ -16,6 +16,7 @@ codex_06="Frante"
 codex_07="cosmo"
 codex_08="PhantomBunny"
 codex_09="Whisper-source"
+codex_10="GG"
 
 echo $codex_01
 echo $codex_02
@@ -25,3 +26,4 @@ echo $codex_05
 echo $codex_07
 echo $codex_08
 echo $codex_09
+echo $codex_10
