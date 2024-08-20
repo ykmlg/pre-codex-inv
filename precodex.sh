@@ -17,6 +17,7 @@ codex_07="cosmo"
 codex_08="PhantomBunny"
 codex_09="Whisper-source"
 codex_10="GG"
+codex_11="CrispyMerchant"
 
 echo $codex_01
 echo $codex_02
