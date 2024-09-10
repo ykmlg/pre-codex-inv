@@ -17,7 +17,7 @@ codex_07="cosmo"
 codex_08="PhantomBunny"
 codex_09="Whisper-source"
 codex_10="GG"
-
+codex_11="lile5ko"
 echo $codex_01
 echo $codex_02
 echo $codex_03
@@ -27,3 +27,4 @@ echo $codex_07
 echo $codex_08
 echo $codex_09
 echo $codex_10
+echo $codex_11
