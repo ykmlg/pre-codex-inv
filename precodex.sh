@@ -17,10 +17,10 @@ codex_07="cosmo"
 codex_08="PhantomBunny"
 codex_09="Whisper-source"
 codex_10="GG"
-codex_11="Algo21"
-codex_12="TheRexxy"
-codex_13="hellisabove"
-
+codex_11="Samello"
+codex_12="Algo21"
+codex_13="TheRexxy"
+codex_14="hellisabove"
 
 echo $codex_01
 echo $codex_02
@@ -34,3 +34,4 @@ echo $codex_10
 echo $codex_11
 echo $codex_12
 echo $codex_13
+echo $codex_14
